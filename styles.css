@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #313131;
+}
+
+.avatar {
+    width: 200px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    background: #e3dac9;
+    color: #313131;
+    border-left:  12px solid #825656;
+    border-bottom: 24px double #825656;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px #935115;
+        
+}
+
+a:hover {
+    color:red;
+}
